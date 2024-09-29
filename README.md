@@ -17,6 +17,8 @@ Este projeto é uma **Calculadora de Partidas Rankeadas** desenvolvida em JavaSc
 - **Porcentagem de Vitórias**: Apresenta a porcentagem de vitórias em relação ao total de partidas jogadas.
 - **Feedback Personalizado**: Oferece feedback motivacional com base na porcentagem de vitórias do jogador.
 
+
+# Exemplo de Saida
 -------------------------------------------
 🧙‍♂️ Herói 1
 Saldo de vitórias: 10 ⚔️
